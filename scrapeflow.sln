@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "scrapeflow.client", "scrapeflow.client\scrapeflow.client.esproj", "{F43BA5A0-AC3A-BE9E-D524-86F11871B544}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "scrapeflow.Server", "scrapeflow.Server\scrapeflow.Server.csproj", "{CC409EB5-5126-4028-AFB1-E7284C06A91D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F43BA5A0-AC3A-BE9E-D524-86F11871B544}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F43BA5A0-AC3A-BE9E-D524-86F11871B544}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F43BA5A0-AC3A-BE9E-D524-86F11871B544}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{F43BA5A0-AC3A-BE9E-D524-86F11871B544}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F43BA5A0-AC3A-BE9E-D524-86F11871B544}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F43BA5A0-AC3A-BE9E-D524-86F11871B544}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{CC409EB5-5126-4028-AFB1-E7284C06A91D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC409EB5-5126-4028-AFB1-E7284C06A91D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC409EB5-5126-4028-AFB1-E7284C06A91D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC409EB5-5126-4028-AFB1-E7284C06A91D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {138418C7-C480-40DE-909C-70C3814C26F7}
+	EndGlobalSection
+EndGlobal
